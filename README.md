@@ -1,6 +1,6 @@
 # gassafe
 
-A new Flutter project.
+An IOT integrated flutter application 
 
 ## Getting Started
 
