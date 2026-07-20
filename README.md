@@ -30,7 +30,7 @@ Firmware dependencies: `ESP8266WiFi`, `Firebase_ESP_Client` (with the TokenHelpe
 
 ## Flutter App
 
-The app targets Android, iOS, web, and desktop (Windows/macOS/Linux). It is currently at the starter-template stage — the Firebase dashboard UI is the next step.
+The app targets Android, iOS, web, and desktop (Windows/macOS/Linux). 
 
 ### Requirements
 
